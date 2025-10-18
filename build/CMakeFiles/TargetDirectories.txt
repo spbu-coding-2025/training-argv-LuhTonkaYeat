@@ -1,0 +1,5 @@
+/home/yeat/training-argv-LuhTonkaYeat/build/CMakeFiles/edit_cache.dir
+/home/yeat/training-argv-LuhTonkaYeat/build/CMakeFiles/rebuild_cache.dir
+/home/yeat/training-argv-LuhTonkaYeat/build/src/CMakeFiles/seq.dir
+/home/yeat/training-argv-LuhTonkaYeat/build/src/CMakeFiles/edit_cache.dir
+/home/yeat/training-argv-LuhTonkaYeat/build/src/CMakeFiles/rebuild_cache.dir
